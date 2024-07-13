@@ -1,0 +1,114 @@
+body {
+    font: 15px/1.5 a Arial, Heivatica, serif;
+    margin: 10px;
+    background: #ffffff;
+}
+
+.com {
+    background-color: blue;
+    background-repeat: no repeat;
+    background-size: cover;
+    color: black;
+    width: 430px;
+    padding-left: 30px;
+    text-align: justify;
+    font-weight: bold;  
+}
+
+.container {
+    border-radius: 20px;
+    padding-bottom: 30px;
+    padding-top: 20px;
+    padding-left: 40px;
+    margin-left: 30px;
+    width: 370px;
+    font-weight: bold;
+    background-color: lightgrey;
+}
+
+.contain {
+    color: red;
+    background-color: #ffffff;
+    width: 300px;
+}
+
+button {
+    border: none;
+    border-radius: 20px;
+    padding: 10px 0;
+    line-height: 20px;
+    font-size: 20px;
+    color: black;
+    width: 200px;
+}
+
+button:hover {
+    background: black;
+    color: #ffffff;
+}
+
+#image {
+    border-radius: 20px;
+    border: blue solid 1px;
+    width: 370px;
+    margin-bottom: 40px;
+    padding-left: 40px;
+    padding-top: 20px;
+    margin-left: 30px;
+}
+
+#come, li {
+    background: black;
+    color: #dcdcdc;
+    text-align: center;
+    list-style: none;
+    margin-left: 20px;
+    width: 400px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    padding-bottom: 10px;  
+}
+
+.dark {
+    text-align: center;
+}
+
+.note {
+    text-align: center;
+    list-style: none;
+    margin-left: 20px;
+    margin-top: 20px;
+    color: #dcdcdc solid 1px;
+    width: 400px;
+}
+
+.error {
+    color: red;
+}
+
+#logo{
+    background: blue;
+    width: 520px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.Address {
+    color: blue;
+    font-weight:bold;
+ }
+
+.highlight {
+    color: blue;
+    font-weight:bold;
+ }
+
+footer {
+   padding-top: 10px;
+   padding-bottom: 10px;
+   margin-top:3px; 
+   color:#ffffff; 
+   background-color: blue; 
+   text-align: center;
+   width: 520px;
+}
